@@ -1,0 +1,52 @@
+D:\chatbotgpt\backend\bin\Debug\net6.0\appsettings.json
+D:\chatbotgpt\backend\bin\Debug\net6.0\backend.exe
+D:\chatbotgpt\backend\bin\Debug\net6.0\backend.deps.json
+D:\chatbotgpt\backend\bin\Debug\net6.0\backend.runtimeconfig.json
+D:\chatbotgpt\backend\bin\Debug\net6.0\backend.dll
+D:\chatbotgpt\backend\bin\Debug\net6.0\backend.pdb
+D:\chatbotgpt\backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\chatbotgpt\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\chatbotgpt\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\chatbotgpt\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\chatbotgpt\backend\obj\Debug\net6.0\backend.csproj.AssemblyReference.cache
+D:\chatbotgpt\backend\obj\Debug\net6.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\chatbotgpt\backend\obj\Debug\net6.0\backend.AssemblyInfoInputs.cache
+D:\chatbotgpt\backend\obj\Debug\net6.0\backend.AssemblyInfo.cs
+D:\chatbotgpt\backend\obj\Debug\net6.0\backend.csproj.CoreCompileInputs.cache
+D:\chatbotgpt\backend\obj\Debug\net6.0\backend.MvcApplicationPartsAssemblyInfo.cs
+D:\chatbotgpt\backend\obj\Debug\net6.0\backend.MvcApplicationPartsAssemblyInfo.cache
+D:\chatbotgpt\backend\obj\Debug\net6.0\scopedcss\bundle\backend.styles.css
+D:\chatbotgpt\backend\obj\Debug\net6.0\staticwebassets.build.json
+D:\chatbotgpt\backend\obj\Debug\net6.0\staticwebassets.development.json
+D:\chatbotgpt\backend\obj\Debug\net6.0\backend.dll
+D:\chatbotgpt\backend\obj\Debug\net6.0\refint\backend.dll
+D:\chatbotgpt\backend\obj\Debug\net6.0\backend.pdb
+D:\chatbotgpt\backend\obj\Debug\net6.0\backend.genruntimeconfig.cache
+D:\chatbotgpt\backend\obj\Debug\net6.0\ref\backend.dll
+D:\chatbotgpt\backend\obj\Debug\net6.0\backend.csproj.CopyComplete
+C:\Users\shiri\Downloads\chatbotgpt (1)\chatbotgpt\backend\bin\Debug\net6.0\appsettings.json
+C:\Users\shiri\Downloads\chatbotgpt (1)\chatbotgpt\backend\bin\Debug\net6.0\backend.exe
+C:\Users\shiri\Downloads\chatbotgpt (1)\chatbotgpt\backend\bin\Debug\net6.0\backend.deps.json
+C:\Users\shiri\Downloads\chatbotgpt (1)\chatbotgpt\backend\bin\Debug\net6.0\backend.runtimeconfig.json
+C:\Users\shiri\Downloads\chatbotgpt (1)\chatbotgpt\backend\bin\Debug\net6.0\backend.dll
+C:\Users\shiri\Downloads\chatbotgpt (1)\chatbotgpt\backend\bin\Debug\net6.0\backend.pdb
+C:\Users\shiri\Downloads\chatbotgpt (1)\chatbotgpt\backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\shiri\Downloads\chatbotgpt (1)\chatbotgpt\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shiri\Downloads\chatbotgpt (1)\chatbotgpt\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shiri\Downloads\chatbotgpt (1)\chatbotgpt\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shiri\Downloads\chatbotgpt (1)\chatbotgpt\backend\obj\Debug\net6.0\backend.csproj.AssemblyReference.cache
+C:\Users\shiri\Downloads\chatbotgpt (1)\chatbotgpt\backend\obj\Debug\net6.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiri\Downloads\chatbotgpt (1)\chatbotgpt\backend\obj\Debug\net6.0\backend.AssemblyInfoInputs.cache
+C:\Users\shiri\Downloads\chatbotgpt (1)\chatbotgpt\backend\obj\Debug\net6.0\backend.AssemblyInfo.cs
+C:\Users\shiri\Downloads\chatbotgpt (1)\chatbotgpt\backend\obj\Debug\net6.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\shiri\Downloads\chatbotgpt (1)\chatbotgpt\backend\obj\Debug\net6.0\backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shiri\Downloads\chatbotgpt (1)\chatbotgpt\backend\obj\Debug\net6.0\backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shiri\Downloads\chatbotgpt (1)\chatbotgpt\backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\shiri\Downloads\chatbotgpt (1)\chatbotgpt\backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\shiri\Downloads\chatbotgpt (1)\chatbotgpt\backend\obj\Debug\net6.0\scopedcss\bundle\backend.styles.css
+C:\Users\shiri\Downloads\chatbotgpt (1)\chatbotgpt\backend\obj\Debug\net6.0\backend.csproj.CopyComplete
+C:\Users\shiri\Downloads\chatbotgpt (1)\chatbotgpt\backend\obj\Debug\net6.0\backend.dll
+C:\Users\shiri\Downloads\chatbotgpt (1)\chatbotgpt\backend\obj\Debug\net6.0\refint\backend.dll
+C:\Users\shiri\Downloads\chatbotgpt (1)\chatbotgpt\backend\obj\Debug\net6.0\backend.pdb
+C:\Users\shiri\Downloads\chatbotgpt (1)\chatbotgpt\backend\obj\Debug\net6.0\backend.genruntimeconfig.cache
+C:\Users\shiri\Downloads\chatbotgpt (1)\chatbotgpt\backend\obj\Debug\net6.0\ref\backend.dll
